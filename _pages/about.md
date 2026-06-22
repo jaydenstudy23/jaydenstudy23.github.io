@@ -6,7 +6,7 @@ subtitle: Informatics and Machine Learning
 
 profile:
   align: right
-  image: https://avatars.githubusercontent.com/jaydenstudy23
+  image: jaydenstudy23.jpg
   image_circular: true
   more_info: >
     <p>Sydney, NSW</p>
