@@ -15,7 +15,7 @@ profile:
 news: false 
 latest_posts: true 
 selected_papers: false 
-social: true 
+social: false 
 ---
 
 Welcome to my technical portfolio.
