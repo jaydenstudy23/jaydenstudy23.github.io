@@ -1,0 +1,9 @@
+
+#
+#- name:        "unionfind-py"
+#  description: "A small, dependency-free disjoint-set library with path compression and union by rank."
+#  language:    "Python"
+#  repo:        "https://github.com/YOUR-GITHUB-USERNAME/unionfind-py"   #
+#  docs:        "https://YOUR-GITHUB-USERNAME.github.io/unionfind-py"    
+#  tags:        [python, algorithms]
+#

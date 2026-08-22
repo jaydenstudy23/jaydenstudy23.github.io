@@ -1,0 +1,42 @@
+
+title:       "Jayden S"                                    
+tagline:     "Year 8 student"              
+description: "Programming projects, engineering write-ups, and academic notes."
+author:      "Jayden S"                                    
+email:       "jaydenstudy23@gmail.com"                     
+
+url:     "https://jaydenstudy23.github.io"                
+baseurl: ""                                               
+
+github_username:   jaydenstudy23                           
+linkedin_url:      ""                                      
+
+markdown:    kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
+
+permalink: /blog/:year/:month/:day/:title/
+timezone:  Australia/Sydney                                
+excerpt_separator: ""
+
+plugins:
+  - jekyll-feed        
+  - jekyll-sitemap     
+
+defaults:
+  - scope: { path: "" }
+    values: { layout: "default" }
+  - scope: { path: "", type: "posts" }
+    values: { layout: "post" }
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
+  - .jekyll-cache
