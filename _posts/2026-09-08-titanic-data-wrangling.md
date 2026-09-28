@@ -4,7 +4,7 @@ title: "Data Wrangling the Titanic Dataset"
 date: 2026-09-28 09:00:00 +1000
 permalink: /blog/titanic-data-wrangling/
 tags: [python, pandas, data-science]
-description: "A practice walkthrough of cleaning and feature-engineering the classic Titanic dataset with pandas"
+description: "Practicing cleaning and feature-engineering the Titanic dataset with pandas"
 ---
 
 In this post, I am going through my practice in data wrangling on the classic Titanic dataset.
